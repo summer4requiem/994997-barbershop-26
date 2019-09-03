@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Агата Агеева](https://up.htmlacademy.ru/htmlcss/26/user/994997).
+* Наставник: [Герман Аверин](https://htmlacademy.ru/profile/id1151393).
 
 ---
 
